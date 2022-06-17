@@ -1,7 +1,7 @@
 # VirusPrank
 ## téléchargez de faux virus totalement inoffensifs mais très drôle à envoyer à ses amis !
 
-### 1 - Téléchargez les fauc virus 
+### 1 - Téléchargez les faux virus 
 CLiquez sur le bouton vert "code" et téléchargez le zip
 
 ### 2 - Amusez vous !
