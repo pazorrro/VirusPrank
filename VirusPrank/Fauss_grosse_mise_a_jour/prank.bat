@@ -1,4 +1,6 @@
 @echo off
-start /max https://fakeupdate.net/win7/
-Msg * "fermez ce message puis pressez f11"
+start "" "chrome.exe" -kiosk "https://fakeupdate.net/win7/"
+
+
+
 
