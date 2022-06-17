@@ -1,3 +1,4 @@
 @echo off
 start /max https://fakeupdate.net/win7/
-oShell.SendKeys "{F11}"
+msgbox "fermez ce message puis pressez f11"
+
